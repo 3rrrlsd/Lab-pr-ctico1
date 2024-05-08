@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Emulador20230431ReneAlejandro</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_perfil">Perfil</string>
+    <string name="title_activity_informacion">Informacion</string>
+    <string name="title_activity_contactanos">Contactanos</string>
+</resources>
